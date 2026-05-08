@@ -1036,6 +1036,27 @@
         "ja",
         "th"
       ]
+    },
+    {
+      "id": "cinezo",
+      "name": "Cinezo",
+      "description": "4K streaming via Cinezo - Movies and TV Shows with multiple servers and subtitles",
+      "version": "1.0.0",
+      "author": "DG0011",
+      "supportedTypes": [
+        "movie",
+        "tv"
+      ],
+      "filename": "providers/cinezo.js",
+      "enabled": true,
+      "formats": [
+        "mp4",
+        "m3u8"
+      ],
+      "logo": "https://cinezo.net/favicon.ico",
+      "contentLanguage": [
+        "en"
+      ]
     }
   ]
 }

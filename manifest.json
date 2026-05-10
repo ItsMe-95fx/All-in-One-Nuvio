@@ -617,13 +617,13 @@
       "contentLanguage": ["en", "Ita"]
     },
     {
-      "id": "vixsync",
-      "name": "VixSync",
-      "description": "VixSync - The best place to watch movies and TV shows online for free. Stream in 1080p HD",
+      "id": "vidsync",
+      "name": "VidSync",
+      "description": "Multi-core cloud relay resolving and decoding system.",
       "version": "1.0.0",
       "author": "Dustincos",
       "supportedTypes": ["movie", "tv"],
-      "filename": "providers/vixsync.js",
+      "filename": "providers/vidsync.js",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
       "logo": "https://i.postimg.cc/Z5F3ndTL/vidsync.png",

@@ -672,14 +672,14 @@
     {
       "id": "vidfast",
       "name": "VidFast",
-      "description": "Multi-core cloud relay resolving and decoding system.",
+      "description": "Stream movies and TV shows from vidfast.pro.",
       "version": "1.0.0",
       "author": "Dustincos",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/vidfast.js",
       "enabled": true,
       "formats": ["mp4", "m3u8"],
-      "logo": "https://i.postimg.cc/Z5F3ndTL/vidsync.png",
+      "logo": "https://i.postimg.cc/0Qp8PSx5/vidfast.png",
       "contentLanguage": ["en"]
     },
     {

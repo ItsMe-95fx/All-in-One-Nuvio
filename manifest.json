@@ -267,16 +267,15 @@
     {
       "id": "fibwatch",
       "name": "FibWatch",
-      "description": "",
+      "description": "Watch Movies, Series, Anime in English & Hindi",
       "version": "1.0.0",
       "author": "Nuvio Team",
       "supportedTypes": ["movie", "tv"],
       "filename": "providers/fibwatch.js",
       "enabled": true,
       "formats": ["mkv", "m3u8"],
-      "logo": "",
+      "logo": "https://i.postimg.cc/sfLR6dMm/fibwatch.png",
       "contentLanguage": ["en", "hi"]
-      
     },
     {
       "id": "goatapi",

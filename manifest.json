@@ -238,6 +238,20 @@
       "logo": "https://i.postimg.cc/W1fmh5C9/cinetv.png",
       "contentLanguage": ["en", "hi"]
     },
+    { 
+      "id": "corsaroviola",
+      "name": "CorsaroViola",
+      "description": "",
+      "version": "1.0.0",
+      "author": "Batman",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/corsaroviola.js",
+      "enabled": true,
+      "resources": ["stream"],
+      "formats": ["mkv", "m3u8"],
+      "logo": "",
+      "contentLanguage": ["en", "it"]
+    },
     {
       "id": "dahmermovies",
       "name": "Dahmermovies",

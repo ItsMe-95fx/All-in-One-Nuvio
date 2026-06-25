@@ -327,6 +327,20 @@
       "contentLanguage": ["en"]
     },
     {
+      "id": "gramcinema",
+      "name": "GramCinema",
+      "description": "Streams in Multi Lang from Bollywood.eu.org. Requires Cookie Token.",
+      "version": "1.0.0",
+      "author": "Xyr0nX • =[D3adly]=",
+      "supportedTypes": ["movie", "tv"],
+      "filename": "providers/gramcinema.js",
+      "enabled": true,
+      "hasSettings": true,
+      "formats": ["mp4", "m3u8"],
+      "logo": "https://i.postimg.cc/WbNPW7Jv/gramcinema.png",
+      "contentLanguage": ["en", "hi", "ta", "ru"]
+    },
+    {
       "id": "hdhub4u",
       "name": "HDHub4u",
       "description": "Direct links from HDHub4u with high-speed download support",
@@ -410,20 +424,6 @@
       "formats": ["mkv", "m3u8"],
       "logo": "https://i.postimg.cc/3N2V7pHc/kurage.png",
       "contentLanguage": ["en", "ja"]
-    },
-    {
-      "id": "lamovie",
-      "name": "LA.Movie",
-      "description": "Streams in Eng/Lat/Spa from LaMovie. Vimeos, GoodStream, StreamWish, VOE and Filemoon.",
-      "version": "1.0.0",
-      "author": "EzequielS03",
-      "supportedTypes": ["movie", "tv"],
-      "filename": "providers/lamovie.js",
-      "enabled": true,
-      "hasSettings": true,
-      "formats": ["mp4", "m3u8"],
-      "logo": "https://i.postimg.cc/SsgH2gcK/lamovie.png",
-      "contentLanguage": ["en", "es"]
     },
     {
       "id": "lordflix",
